@@ -2,6 +2,7 @@
 int main()
 {
     int a[10][10],n,i,j,c=0;
+    clrscr();
     scanf("%d",&n);
     for(i=0;i<n;i++)
     {
