@@ -2,6 +2,7 @@
 void main()
 {
     int n,m,a[100000],i,j,l=0;
+    printf("Enter the value");
     scanf("%d%d",&n,&m);
     for(i=0;i<n;i++)
     scanf("%d",&a[i]);
